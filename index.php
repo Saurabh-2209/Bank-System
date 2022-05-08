@@ -97,6 +97,7 @@
 
   .image-section img:hover {
     transform: scale(1.1);
+    transition: 0.6s;
   }
 
   .fab {

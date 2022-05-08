@@ -32,7 +32,7 @@ if(isset($_POST['submit']))
     {
         
         echo '<script type="text/javascript">';
-        echo ' alert("Bad Luck! Insufficient Balance")';  // showing an alert box.
+        echo ' alert("Insufficient Balance")';  // showing an alert box.
         echo '</script>';
     }
     
